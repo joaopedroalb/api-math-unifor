@@ -1,0 +1,19 @@
+{
+  "name": "math-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopedroalb/api-cloud-unifor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopedroalb/api-cloud-unifor/issues"
+  },
+  "homepage": "https://github.com/joaopedroalb/api-cloud-unifor#readme"
+}
