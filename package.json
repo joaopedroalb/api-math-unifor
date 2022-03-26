@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/joaopedroalb/api-cloud-unifor/issues"
   },
-  "homepage": "https://github.com/joaopedroalb/api-cloud-unifor#readme"
+  "homepage": "https://github.com/joaopedroalb/api-cloud-unifor#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
 }
